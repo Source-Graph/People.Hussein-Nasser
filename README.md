@@ -9,6 +9,8 @@ My.Top Favorite!!! Teachers
 ## Course:
 [New Udemy Course - Fundamentals of Backend Communications, Design Patterns and Protocols](https://youtu.be/6nlazL_yhK4)
 
+relation: Database, Web Server, Backend
+
 video:
 - [Opening Old Wounds - Why Uber Engineering Switched from Postgres to MySQL](https://youtu.be/_E43l5EbNI4)
 - [Cloudflare is moving away from NGINX | The Backend Engineering Show](https://youtu.be/QbOAHkaFU6w)
@@ -45,3 +47,8 @@ video:
 - [Database Indexing Explained (with PostgreSQL)](https://youtu.be/-qNSXK7s7_w)
 - [Software Engineering is Overwhelming](https://youtu.be/MbDjrztWtX4)
 - [Career Path Advice - Moving from a Network Engineer to a Backend Engineer](https://youtu.be/A20hvCH6Drs)
+- [Consistent Hashing | The Backend Engineering Show](https://youtu.be/p6wwj0ozifw)
+- [Understanding Aggregate Functions Performance | The Backend Engineering Show](https://youtu.be/L-8_CjV6sH4)
+- [What caused the cold start performance “dip” in MariaDB .. Let us discuss (@percona Article)](https://youtu.be/xw4HjtRo1Ik)
+- [MariaDB vs MySQL SSD NVMe vs SATA Performance - Discussions on the Percona Benchmark](https://youtu.be/T5nqr5-zIJE)
+- [Best Practices Working with Billion-row Tables in Databases](https://youtu.be/wj7KEMEkMUE)
