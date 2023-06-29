@@ -54,3 +54,5 @@ video:
 - [Best Practices Working with Billion-row Tables in Databases](https://youtu.be/wj7KEMEkMUE)
 - [Discussing the Homa paper - Replacing TCP for the Datacenter | The Backend Engineering Show](https://youtu.be/nEFOni_87Yw) : list=Top.Favorite!, topics=[network engineering, datacenter, backend, replication]
 - [AWS Serverless Lambda Supports Response Streaming](https://youtu.be/iwX9dYrcL1k)
+- [REST API Pros and Cons (Explained by Example)](https://youtu.be/M3XQ6yEC51Q)
+- [Could Conventional B-Trees harm Solid State Drives?](https://youtu.be/xprkGzP36TI)
