@@ -53,3 +53,4 @@ video:
 - [MariaDB vs MySQL SSD NVMe vs SATA Performance - Discussions on the Percona Benchmark](https://youtu.be/T5nqr5-zIJE)
 - [Best Practices Working with Billion-row Tables in Databases](https://youtu.be/wj7KEMEkMUE)
 - [Discussing the Homa paper - Replacing TCP for the Datacenter | The Backend Engineering Show](https://youtu.be/nEFOni_87Yw) : list=Top.Favorite!, topics=[network engineering, datacenter, backend, replication]
+- [AWS Serverless Lambda Supports Response Streaming](https://youtu.be/iwX9dYrcL1k)
